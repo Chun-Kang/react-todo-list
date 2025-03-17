@@ -1,0 +1,15 @@
+.todo {
+    background-color: #3636cc ;
+    height: 40px;
+    padding: 0 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.completed {
+    opacity: 0.4;
+    text-decoration: line-through 3px black;
+}
